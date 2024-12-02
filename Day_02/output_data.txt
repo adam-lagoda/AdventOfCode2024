@@ -1,0 +1,2 @@
+Number of safe reports:, 369
+Number of safe reports with dampener: 428
